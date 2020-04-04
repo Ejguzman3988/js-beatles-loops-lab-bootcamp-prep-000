@@ -16,5 +16,14 @@ function johnLennonFacts(facts){
     excited.push(facts[i]+'!!!')
     i++
   }
+  return excited
+}
+
+function iLoveTheBeatles(number){
+  
+  
+  do{
+    
+  }
 }
 
