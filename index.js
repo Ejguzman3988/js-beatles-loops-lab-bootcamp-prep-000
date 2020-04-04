@@ -1,5 +1,5 @@
 // add solution here
-function theBeatlesPlay(artist, intrument){
+function theBeatlesPlay(artist, instrument){
   var array = {}
   
   for (let i = 0; i < artist.length-1; i++){
