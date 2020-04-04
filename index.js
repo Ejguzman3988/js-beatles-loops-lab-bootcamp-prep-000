@@ -23,9 +23,9 @@ function iLoveTheBeatles(number){
   var howMuch = []
   
   do{
-    howMuch.push('I love the Beatles!')
-    --number
-  }while(number < 15)
+    howMuch.push('I love the Beatles!');
+    --number;
+  }while (number < 15)
   return howMuch
 }
 
