@@ -21,11 +21,11 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   var howMuch = []
-  let i = 0
+  
   do{
     howMuch.push('I love the Beatles!')
-    i++
-  }while(i < number)
+    number--
+  }while(number > 0)
   return howMuch
 }
 
